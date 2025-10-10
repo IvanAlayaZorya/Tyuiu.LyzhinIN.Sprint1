@@ -23,5 +23,6 @@ Console.WriteLine("****************************************************");
 Console.WriteLine("РЕЗУЛЬТАТ:                                         *");
 Console.WriteLine("****************************************************");
 
+
 Console.WriteLine(ds.Calculate());
 Console.ReadKey();
