@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Tyuiu.LyzhinIN.Sprint1.Task1.V10.Lib;
+using Tyuiu.LyzhinIN.Sprint1.Task1.V15.Lib;
 
-DataService dataService =  new DataService();
+DataService dataService = new DataService();
 
 Console.Title = "Спринт #1 | Выполнил: Лыжин И. Н. | НТм-24-1";
 Console.WriteLine("****************************************************");
@@ -19,7 +19,6 @@ Console.WriteLine("*на экране                                         *"
 Console.WriteLine("****************************************************");
 Console.WriteLine("ИСХОДНЫЕ ДАННЫЕ:                                   *");
 Console.WriteLine("****************************************************");
-
 
 double x;
 

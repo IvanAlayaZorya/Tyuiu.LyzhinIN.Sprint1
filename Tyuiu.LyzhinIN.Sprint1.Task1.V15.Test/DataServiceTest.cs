@@ -1,6 +1,6 @@
-﻿using Tyuiu.LyzhinIN.Sprint1.Task1.V10.Lib;
+﻿using Tyuiu.LyzhinIN.Sprint1.Task1.V15.Lib;
 
-namespace Tyuiu.LyzhinIN.Sprint1.Task1.V10.Test
+namespace Tyuiu.LyzhinIN.Sprint1.Task1.V15.Test
 {
     [TestClass]
     public sealed class DataServiceTest
